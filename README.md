@@ -52,17 +52,16 @@
 
 <p>Após executar o comando acima, basta apenas abrir o seguinte endereço e visualizar a execução do projeto: (http://localhost:8080/api/v1/beers) </p>
 
-<h5>Foram necessários os seguintes pré-requisitos para a execução do projeto desenvolvido durante a aula:</h5>
+<h5>Foram necessários os seguintes requisitos para a execução do projeto durante as aulas:</h5>
   <p>Java 14 ou versões superiores.</p>
   <p>Maven 3.6.3 ou versões superiores.</p>
   <p>Intellj IDEA Community Edition ou sua IDE favorita.</p>
   <p>Controle de versão GIT instalado na sua máquina.</p>
   <p>Muita vontade de aprender e compartilhar conhecimento :)</p>
   
-  <h5><a href="https://drive.google.com/file/d/1KPh19mvyKirorOI-UsEYHKkmZpet3Ks6/view?usp=sharing" rel="nofollow">Neste link</a>, seguem os slides apresentados como o roteiro utilizado para o desenvolvimento do projeto da nossa sessão.</p>.</h5> 
+ <h5><a href="https://drive.google.com/file/d/1KPh19mvyKirorOI-UsEYHKkmZpet3Ks6/view?usp=sharing" rel="nofollow">Neste link</a>, seguem os slides apresentados como o roteiro utilizado para o desenvolvimento do projeto da nossa sessão.</p>.</h5> 
 
  <h5>Abaixo, seguem links bem bacanas, sobre tópicos mencionados durante a aula:</h5>
-
 
 <li><a href="https://sdkman.io/" rel="nofollow">SDKMan! para gerenciamento e instalação do Java e Maven</a></li>
 <li><a href="https://www.jetbrains.com/idea/download" rel="nofollow">Referência do Intellij IDEA Community, para download</a></li>
@@ -74,8 +73,6 @@
 <li><a href="https://www.baeldung.com/spring-boot-testing" rel="nofollow">Referências - testes em geral com o Spring Boot</a></li>
 <li><a href="https://restfulapi.net/" rel="nofollow">Referência para o padrão arquitetural REST</a></li>
 <li><a href="https://martinfowler.com/articles/practical-test-pyramid.html#TheImportanceOftestAutomation" rel="nofollow">Referência pirâmide de testes - Martin Fowler</a></li>
-
-
 
 </spam>
 
